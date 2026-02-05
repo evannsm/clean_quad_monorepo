@@ -1,0 +1,12 @@
+[submodule "quad_platforms"]
+	path = quad_platforms
+	url = git@github.com:evannsm/quad_platforms.git
+[submodule "quad_trajectories"]
+	path = quad_trajectories
+	url = git@github.com:evannsm/quad_trajectories.git
+[submodule "nr_standard"]
+	path = nr_standard
+	url = git@github.com:evannsm/nr_standard.git
+[submodule "nr_enhanced_v2"]
+	path = nr_enhanced_v2
+	url = git@github.com:evannsm/nr_enhanced_v2.git

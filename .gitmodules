@@ -13,3 +13,6 @@
 [submodule "ROS2Logger"]
 	path = ROS2Logger
 	url = git@github.com:evannsm/ROS2Logger.git
+[submodule "nmpc_acados_euler_err"]
+	path = nmpc_acados_euler_err
+	url = git@github.com:evannsm/nmpc_acados_euler_err.git

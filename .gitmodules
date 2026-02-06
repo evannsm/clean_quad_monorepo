@@ -16,3 +16,6 @@
 [submodule "nmpc_acados_euler_err"]
 	path = nmpc_acados_euler_err
 	url = git@github.com:evannsm/nmpc_acados_euler_err.git
+[submodule "nr_diff_flat"]
+	path = nr_diff_flat
+	url = git@github.com:evannsm/nr_diff_flat.git
